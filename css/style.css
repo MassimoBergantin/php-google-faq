@@ -1,0 +1,47 @@
+* {
+    font-family: 'Noto Sans JP', sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+}
+body {
+    width: 100vw;
+}
+.glogo-user {
+    width: 100%;
+    padding: 10px;
+}
+.googlelogo {
+    width: 50px;
+    float: left; 
+}
+.privacy { 
+    font-size: smaller;
+    color: rgb(123, 123, 123); 
+    padding: 10px;
+}
+.fas {
+    float: right;
+    padding: 5px;
+    color: rgb(96, 96, 96);
+}
+.fa-user-circle {
+    font-size: x-large;
+}
+
+.fa-th {
+    padding-top: 10px;
+}
+.categories {
+    list-style: none;
+    display: flex;
+    font-size: 14px;
+}
+.categories li {
+    padding-right: 20px;
+    cursor: pointer;
+    color: rgb(123, 123, 123); 
+    font-size: x-small;
+}
+.Q{
+    font-size: smaller;
+}
